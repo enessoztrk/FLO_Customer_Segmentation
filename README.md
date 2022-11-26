@@ -27,11 +27,11 @@ The dataset is based on the past shopping behavior of customers who made their l
 Data Understanding and Preparation
 - Read the flo_data_20K.csv data.
 - In the dataset
-a. top 10 observations,
-b. variable names,
-c. descriptive statistics,
-d. null value,
-e. Variable types, review.
+- a. top 10 observations,
+- b. variable names,
+- c. descriptive statistics,
+- d. null value,
+- e. Variable types, review.
 - Omnichannel means that customers shop from both online and offline platforms. Total for each customer create new variables for number of purchases and spend.
 - Examine the variable types. Change the type of variables that express date to date.
 - Look at the breakdown of the number of customers, average number of products purchased, and average spend in shopping channels.
