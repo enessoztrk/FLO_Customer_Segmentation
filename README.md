@@ -27,7 +27,7 @@ The dataset is based on the past shopping behavior of customers who made their l
 Data Understanding and Preparation
 - Read the flo_data_20K.csv data.
 - In the dataset
--- a. top 10 observations,
+- a. top 10 observations,
 b. variable names,
 - c. descriptive statistics,
 - d. null value,
