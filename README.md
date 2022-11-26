@@ -25,19 +25,19 @@ The dataset is based on the past shopping behavior of customers who made their l
 
 ### TASK 1: 
 Data Understanding and Preparation
-- 1. Read the flo_data_20K.csv data.
-- 2. In the dataset
+- Read the flo_data_20K.csv data.
+- In the dataset
 a. top 10 observations,
 b. variable names,
 c. descriptive statistics,
 d. null value,
 e. Variable types, review.
-- 3. Omnichannel means that customers shop from both online and offline platforms. Total for each customer create new variables for number of purchases and spend.
-- 4. Examine the variable types. Change the type of variables that express date to date.
-- 5. Look at the breakdown of the number of customers, average number of products purchased, and average spend in shopping channels.
-- 6. Rank the top 10 customers with the most revenue.
-- 7. Rank the top 10 customers with the most orders.
-- 8. Functionalize the data provisioning process.
+- Omnichannel means that customers shop from both online and offline platforms. Total for each customer create new variables for number of purchases and spend.
+- Examine the variable types. Change the type of variables that express date to date.
+- Look at the breakdown of the number of customers, average number of products purchased, and average spend in shopping channels.
+- Rank the top 10 customers with the most revenue.
+- Rank the top 10 customers with the most orders.
+- Functionalize the data provisioning process.
 
 ### TASK 2: 
 Calculating RFM Metrics
