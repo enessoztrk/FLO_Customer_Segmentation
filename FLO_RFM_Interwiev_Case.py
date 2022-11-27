@@ -88,7 +88,7 @@ rfm.head()
 
 
 ###############################################################
-# GÖREV 3: Calculating RF and RFM Scores
+# TASK 3: Calculating RF and RFM Scores
 ###############################################################
 # Converting Recency, Frequency and Monetary metrics to scores between 1-5 with the help of qcut and
 # Saving these scores as recency_score, frequency_score and monetary_score
