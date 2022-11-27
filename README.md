@@ -57,4 +57,4 @@ People who shop from the women category with an average of 250 TL or more are th
 2. Up to 40% discount is planned for Men's and Children's products. Good past customer but long-standing customer interested in categories related to this sale customers who should not be lost who do not shop, those who are asleep and new customers are specifically targeted. Enter the ids of the customers in the appropriate profile into the csv file discount_target_customer_ids.csv save it as #.
 
 
-# TASK 6: Functionalize the whole process.
+### TASK 6: Functionalize the whole process.
