@@ -52,9 +52,9 @@ Defining RF Scores as Segments
 Time for action!
 - Examine the recency, frequency and monetary averages of the segments.
 - With the help of RFM analysis, find the customers in the relevant profile for 2 cases and save the customer IDs to the csv.
-a. FLO includes a new women's shoe brand. The product prices of the brand it includes are above the general customer preferences. Therefore, the brand It is desired to contact the customers in the profile that will be interested in # promotion and product sales. From their loyal customers(champions,loyal_customers),
+1. FLO includes a new women's shoe brand. The product prices of the brand it includes are above the general customer preferences. Therefore, the brand It is desired to contact the customers in the profile that will be interested in # promotion and product sales. From their loyal customers(champions,loyal_customers),
 People who shop from the women category with an average of 250 TL or more are the customers who will be contacted privately. Id numbers of these customers to csv file save as new_brand_target_customer_id.cvs.
-b. Up to 40% discount is planned for Men's and Children's products. Good past customer but long-standing customer interested in categories related to this sale customers who should not be lost who do not shop, those who are asleep and new customers are specifically targeted. Enter the ids of the customers in the appropriate profile into the csv file discount_target_customer_ids.csv save it as #.
+2. Up to 40% discount is planned for Men's and Children's products. Good past customer but long-standing customer interested in categories related to this sale customers who should not be lost who do not shop, those who are asleep and new customers are specifically targeted. Enter the ids of the customers in the appropriate profile into the csv file discount_target_customer_ids.csv save it as #.
 
 
 # TASK 6: Functionalize the whole process.
