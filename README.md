@@ -1,4 +1,4 @@
-# FLO RFM Interwiev Case
+# FLO Customer Segmentation
 
 ## Business Problem
 FLO wants to segment its customers and determine marketing strategies according to these segments. For this, the behavior of the customers will be defined and groups will be formed according to these behavior clusters.
